@@ -1,0 +1,17 @@
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\bin\Debug\OTAMA-gochi-3.exe.config
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\bin\Debug\OTAMA-gochi-3.exe
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\bin\Debug\OTAMA-gochi-3.pdb
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3.csprojAssemblyReference.cache
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\MainWindow.g.cs
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\App.g.cs
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3_MarkupCompile.cache
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3_MarkupCompile.lref
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\MainWindow.baml
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3.g.resources
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA_gochi_3.Properties.Resources.resources
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3.csproj.GenerateResource.cache
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3.exe
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\OTAMA-gochi-3.pdb
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\Bienvenido.g.cs
+C:\Users\SERGIO\source\repos\OTAMA-gochi-3\OTAMA-gochi-3\obj\Debug\Bienvenido.baml
